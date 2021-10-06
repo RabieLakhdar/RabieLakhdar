@@ -10,7 +10,7 @@
 <p>📫 How to reach me: hello@rabiel.dev</p>
     </td>
     <td>
-      <a href="https://app.daily.dev/RabieLakhdar"><img src="https://api.daily.dev/devcards/d3796881f2244ec295cbe1e592b3d9fc.png?r=wya" width="400" alt="rabiel.Dev's Dev Card"/></a>
+      <a href="https://app.daily.dev/RabieLakhdar"><img src="https://github.com/RabieLakhdar/RabieLakhdar/blob/main/devcard.svg" width="400" alt="rabiel.Dev's Dev Card"/></a>
     </td>
   </tr>
 </table>
